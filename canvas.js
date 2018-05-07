@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function(event)
     context.strokeStyle = 'BADA55';
     context.lineJoin = 'round';
     context.lineCap = 'round';
-    context.lineWidth = 10;
+    context.lineWidth = 50;
 
     let isDrawing = false;
     let lastX = 0;
